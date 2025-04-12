@@ -29,7 +29,6 @@ public class OrderCreateTest {
     private String orderFirstIngredient;
     private String orderSecondIngredient;
     private String orderNumber;
-    private Map<String, String[]> ingredientsMap;
 
     @Before
     public void setUp() {
